@@ -16,7 +16,7 @@ To replicate the analysis, please execute the following files in the specified o
 ### Data and Plots
 
 - **Data(csv):**
-- *'dft-road-casualty-statistics-casualty-last-5-years.csv'*,
+- * 'dft-road-casualty-statistics-casualty-last-5-years.csv'*,
   * 'dft-road-casualty-statistics-collision-last-5-years.csv'*,
   * 'dft-road-casualty-statistics-vehicle-last-5-years.csv'* are the initial data sets.
 - *'london_vehicle_collision_casualty.csv'* is the merged dataset.
